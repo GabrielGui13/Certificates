@@ -9,6 +9,9 @@
 ## Curso de desenvolvimento Full Stack - Hiring Coders
 ![Hiring Coders - Primeira Fase](https://github.com/GabrielGui13/Certificates/blob/main/img/HiringCoders-FullStack1F.png)
 
+## Curso de desenvolvimento VTEX IO - Hiring Coders
+![Hiring Coders - Segunda Fase](https://github.com/GabrielGui13/Certificates/blob/main/img/HiringCoders-FullStack2F.png)
+
 ## AWS Cloud Practitioner Essentials Course
-![Curso CP AWS](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=Y9p5plVtGE2E8NU9Pm39Xg2)
+![Curso CP AWS](https://github.com/GabrielGui13/Certificates/blob/main/img/AWS-CP-COURSE.png)
 
