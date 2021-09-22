@@ -12,7 +12,7 @@
 ## Curso de desenvolvimento VTEX IO - Hiring Coders
 ![Hiring Coders - Segunda Fase](https://github.com/GabrielGui13/Certificates/blob/main/img/HiringCoders-FullStack2F.png)
 
-## Curso de desenvolvimento Projeto Final AWS - Hiring Coders
+## Certificado de finalização última fase - Hiring Coders
 ![Hiring Coders - Segunda Fase](https://github.com/GabrielGui13/Certificates/blob/main/img/HiringCoders-FullStack3F.png)
 
 ## AWS Cloud Practitioner Essentials Course
